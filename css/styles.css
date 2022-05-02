@@ -1,3 +1,14 @@
 .My-image {
-     size: 50px x 100px;
+     width: 400px;
+     height: 500px;
+     display: block;
+     margin-left: auto;
+    margin-right: auto;
     }
+.Name{
+        color: rgb(151, 99, 4);
+    }  
+H1 {
+    text-align: center;
+    color: rgb(48, 193, 193);
+}
