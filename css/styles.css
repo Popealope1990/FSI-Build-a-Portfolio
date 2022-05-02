@@ -4,11 +4,28 @@
      display: block;
      margin-left: auto;
     margin-right: auto;
+    border: 10px solid rgb(197, 131, 10);
+    
     }
 .Name{
-        color: rgb(151, 99, 4);
+        color: rgb(197, 131, 10);
+        text-align: center;
     }  
-H1 {
+
+    .portfolio {
     text-align: center;
-    color: rgb(48, 193, 193);
+    color: rgb(4, 166, 4);
+    padding-right: 300px;
 }
+
+body {
+    background-color: rgb(89, 84, 84);
+}
+
+.software-developer {
+text-align: center;
+text-decoration: underline overline dashed red;
+color: gold;
+padding-left: 300px;
+}
+
